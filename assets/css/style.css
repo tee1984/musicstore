@@ -161,6 +161,8 @@ footer img {
 	height: 40px;
 	background-color: #000;
 	margin-top: 140px;
+	display: flex;
+    justify-content: center;
 }/*
 .menuint {
 	width: 100%;
